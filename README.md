@@ -1,5 +1,5 @@
 # image-color
 Image colorization of grayascale images
  
- # new goal
+ # New objective
  with the help of openCV
